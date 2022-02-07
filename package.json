@@ -1,0 +1,41 @@
+{
+  "name": "sparkline",
+  "version": "v2.1.2",
+  "description": "JQuery Sparkline for installation with Bower",
+  "main": "src/jquery.sparkline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garciasong/sparkline.git"
+  },
+  "keywords": [
+    "sparklines",
+    "charts",
+    "svg",
+    "pie",
+    "bar",
+    "donut",
+    "inline",
+    "tristate",
+    "discrete",
+    "bullet",
+    "graph",
+    "canvas",
+    "graphics",
+    "graphing",
+    "graphs",
+    "ui",
+    "vml"
+  ],
+  "author": "Mr_S. <haisong.yu@aliyun.com>",
+  "license": "MIT",
+  "devDependencies": {
+
+  },
+  "bugs": {
+    "url": "https://github.com/garciasong/sparkline/issues"
+  },
+  "homepage": "https://github.com/garciasong/sparkline#readme"
+}
